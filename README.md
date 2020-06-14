@@ -1,2 +1,2 @@
 # c-program
-C Program Repository for learning purposes
+This is a C Program Repository for learning purposes only. 
